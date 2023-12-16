@@ -281,7 +281,7 @@
 
                 <h3 class="name">
                   <a href="{{url('/movie/inside-women/')}}">
-                    Inside Women
+                    Inside Women 2
                   </a>
                 </h3>
               </div>
